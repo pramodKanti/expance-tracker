@@ -1,6 +1,6 @@
 ---
 deployment:
       tasks:
-        - export DEPLOYPATH=/home/vglobal/public_html/vcananewweb.vcanaglobal.ga/test
+        - export DEPLOYPATH=/home/vglobal(vcanaglobal.ga)/public_html/vcananewweb.vcanaglobal.ga/test
         - /bin/cp * $DEPLOYPATH #Copy specific file to destination from root
   
