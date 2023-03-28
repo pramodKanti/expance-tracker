@@ -23,6 +23,6 @@ jobs:
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@v4.3.4
       with:
-        server: "ftp.vcanaglobal.ga"
-        username: "vglobal@vcananewweb.vcanaglobal.ga"
-        password: "vglobal h3!X$URxhRQC"
+        server: ftp.vcanaglobal.ga
+        username: vglobal@vcananewweb.vcanaglobal.ga
+        password: vglobal h3!X$URxhRQC
